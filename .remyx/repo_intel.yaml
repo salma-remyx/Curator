@@ -1,0 +1,16 @@
+schema_version: 1
+fork: salma-remyx/Curator
+observed_landing_zones:
+- path: eval/video/
+  shape_tags:
+  - unclassified
+  confirmed_by:
+  - arxiv: 2410.10816v1
+    mode: ''
+    call_site_specifics: ''
+    branch: lvd-2m-a-long-take-video-dataset-with-temporally-dense-capti
+    timestamp: '2026-09-01T02:09:26Z'
+  last_observed: '2026-09-01T02:09:26Z'
+rejected_shapes: []
+coordination_signals: []
+last_updated: '2026-09-01T02:09:26Z'
